@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.tmt.payment_terms.PaymentTermsApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 27.619 s - in com.tmt.payment_terms.PaymentTermsApplicationTests

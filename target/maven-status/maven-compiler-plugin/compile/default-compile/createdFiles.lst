@@ -1,0 +1,5 @@
+com/tmt/payment_terms/PaymentTermsApplication.class
+com/tmt/payment_terms/repository/PaymentTermsRepository.class
+com/tmt/payment_terms/exception/ResourceNotFoundException.class
+com/tmt/payment_terms/entity/PaymentTerm.class
+com/tmt/payment_terms/controller/PaymentTermController.class
